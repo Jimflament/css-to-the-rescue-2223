@@ -129,3 +129,4 @@ body :has(#right:checked) label:nth-of-type(2){
     from{border-left-color: var(--off);}
     to{border-left-color: var(--onorange);}
 }
+/*  */
